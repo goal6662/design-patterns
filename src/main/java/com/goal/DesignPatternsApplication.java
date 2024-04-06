@@ -1,4 +1,4 @@
-package com.goal.designpatterns;
+package com.goal;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
